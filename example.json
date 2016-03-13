@@ -1,0 +1,10 @@
+{
+   "videos" : [
+      {
+         "videoStillURL" : "http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg",
+         "name" : "Example video",
+         "id" : 972346,
+         "videoURL" : "http://www.sample-videos.com/video/mp4/720/big_buck_bunny_720p_1mb.mp4"
+      }
+   ]
+}
